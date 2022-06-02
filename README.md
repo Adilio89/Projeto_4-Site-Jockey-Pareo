@@ -1,2 +1,3 @@
 # Projeto_4-Site-Jockey-Pareo
- Primeira versão do meu primeiro site no GitHub
+ Meu primeiro projeto no GitHub,
+ Refiz os códigos seguindo o Livro Lógica de Programação E Algoritmos com JAVAScript.
